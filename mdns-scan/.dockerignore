@@ -1,0 +1,12 @@
+*.exe
+_build.log
+_vet.log
+_files.txt
+_gomodcache.txt
+_env.txt
+.git
+.gitignore
+Dockerfile
+.dockerignore
+README.md
+examples/
